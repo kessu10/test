@@ -1,5 +1,6 @@
 BLA BLA test
 
+fork test
 
 $ vagrant up
 Bringing machine 'default' up with 'virtualbox' provider...
